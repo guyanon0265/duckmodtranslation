@@ -1,0 +1,17 @@
+{
+  "item.duckmod.duck_spawn_egg": "بيضة البطة",
+  "item.duckmod.raw_duck": "بط نيء",
+  "item.duckmod.cooked_duck": "بط مطبوخ",
+  "item.duckmod.white_egg": "بيضة بيضاء",
+  "item.duckmod.green_egg": "بيضة خضراء",
+  "item.duckmod.cream_egg": "بيضة كريمي",
+  "entity.duckmod.duck": "بطة",
+  "entity.duckmod.white_egg": "بيضة مرمية",
+  "subtitles.entity.duck.ambient": "كواكس البط",
+  "subtitles.entity.duck.death": "بطة تموت",
+  "subtitles.entity.duck.hurt": "البطة تأذى",
+  "subtitles.entity.duck.egg": "البط يسقط",
+  "subtitles.entity.baby_duck.ambient": "البطيطة يزقزق",
+  "subtitles.entity.baby_duck.death": "البطة تموت",
+  "subtitles.entity.baby_duck.hurt": "البطة تتاذى"
+}
