@@ -1,0 +1,17 @@
+{
+  "entity.duckmod.duck": "Duck",
+  "entity.duckmod.white_egg": "Thrown Egg",
+  "item.duckmod.duck_spawn_egg": "Duck Spawn Egg",
+  "item.duckmod.raw_duck": "Raw Duck",
+  "item.duckmod.cooked_duck": "Roast Duck",
+  "item.duckmod.white_egg": "White Egg",
+  "item.duckmod.green_egg": "Green Egg",
+  "item.duckmod.cream_egg": "Cream Egg",
+  "subtitles.entity.duck.ambient": "Duck quacks",
+  "subtitles.entity.duck.death": "Duck dies",
+  "subtitles.entity.duck.hurt": "Duck hurts",
+  "subtitles.entity.duck.egg": "Duck plops",
+  "subtitles.entity.baby_duck.ambient": "Duckling peeps",
+  "subtitles.entity.baby_duck.death": "Duckling dies",
+  "subtitles.entity.baby_duck.hurt": "Duckling hurts"
+}

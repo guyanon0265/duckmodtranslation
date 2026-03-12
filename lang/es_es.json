@@ -1,0 +1,17 @@
+{
+  "entity.duckmod.duck": "Pato",
+  "entity.duckmod.white_egg": "Huevo lanzado",
+  "item.duckmod.duck_spawn_egg": "Generar pato",
+  "item.duckmod.raw_duck": "Pato crudo",
+  "item.duckmod.cooked_duck": "Pato asado",
+  "item.duckmod.white_egg": "Huevo blanco",
+  "item.duckmod.green_egg": "Huevo verde",
+  "item.duckmod.cream_egg": "Huevo crema",
+  "subtitles.entity.duck.ambient": "Pato graznida",
+  "subtitles.entity.duck.death": "Pato muere",
+  "subtitles.entity.duck.hurt": "Pato herido",
+  "subtitles.entity.duck.egg": "Pato pone un huevo",
+  "subtitles.entity.baby_duck.ambient": "Patito pía",
+  "subtitles.entity.baby_duck.death": "Patito muere",
+  "subtitles.entity.baby_duck.hurt": "Patito herido"
+}
